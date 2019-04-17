@@ -1,3 +1,5 @@
+(Forked to reduce size, to be used as a submodule)
+
 OpenVR SDK
 ---
 
